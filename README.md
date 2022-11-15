@@ -34,4 +34,4 @@ pip install -r req.txt
 3) Click on GET NDVI button to initiate the process. Output image is displayed on the screen and also saved on the output folder.
 
 ### Output Image:
-![image info](output/ndvi_cmap.png)<br>
+![image info](screenshots/result.JPG)<br>
