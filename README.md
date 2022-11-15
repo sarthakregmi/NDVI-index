@@ -19,7 +19,7 @@ pip install -r req.txt
 ```
 ## Procedure to Use Application:
 ### To Download the Sentinel Image:
-![image info](screenshots/Capture.png)<br>
+![image info](screenshots/screen.jpg)<br>
 #### Steps
 1) Enter the ESA Username and Password.
 2) Select the path of Shp file or Geojson File from FilePath option.
